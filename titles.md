@@ -6,3 +6,7 @@
 - The Big Short
 - 12 Monkeys
 - The Curious Case of Benjamin Button
+<<<<<<< HEAD
+- Psycho, Alfred Hitchcock, 1960
+=======
+>>>>>>> origin/main
